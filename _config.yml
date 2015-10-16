@@ -3,8 +3,8 @@ title: Employment Options
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
 
-baseurl: "http://communityinclusion.github.io/mova/" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://communityinclusion.github.io/mova/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
